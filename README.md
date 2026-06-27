@@ -1,44 +1,90 @@
 # Enterprise Branch Office Network
 
+![Network Topology](Images/topology.png)
+
 ## Overview
 
 This project demonstrates the design and implementation of a small-to-medium enterprise branch office network using Cisco Packet Tracer.
 
-The project was created as part of my personal networking laboratory studies and focuses on practical enterprise networking concepts rather than theory alone.
+The project focuses on practical enterprise networking concepts through hands-on laboratory work and technical documentation.
 
 ---
 
-## Technologies
+## Project Features
 
-- VLAN
-- Access Ports
-- Trunk Links
-- Router-on-a-Stick
-- DHCP
+- VLAN Segmentation
+- Inter-VLAN Routing (Router-on-a-Stick)
+- DHCP Configuration
 - NAT (PAT)
 - Access Control Lists (ACL)
 - Port Security
 - Spanning Tree Protocol (STP)
-- Backup ISP
+- Backup ISP Design
 
 ---
 
-## Project Status
+## Technologies Used
 
-✅ Completed
+- Cisco Packet Tracer
+- Cisco IOS
+- VLAN
+- DHCP
+- NAT
+- ACL
+- STP
+- Port Security
 
 ---
 
-## Next Project
+## Repository Structure
 
-Enterprise Multi Branch Network (In Progress)
+```text
+enterprise-branch-office-network/
+
+├── Documentation/
+├── Images/
+├── PacketTracer/
+└── README.md
+```
+
+---
+
+## Documentation
+
+This repository includes personal technical documentation created during the laboratory process.
+
+The documentation explains:
+
+- Network design
+- Configuration workflow
+- Practical notes
+- Troubleshooting
+- Testing procedures
+
+---
+
+## Future Improvements
+
+The next project will include:
+
+- Multi-Branch Enterprise Network
+- Site-to-Site VPN
+- Remote Access VPN
+- Cisco ASA Firewall
+- Dynamic Routing
+- SSH
+- Syslog
+- NTP
+- Disaster Recovery
 
 ---
 
 ## Author
 
-Hüseyin Şahin
+**Hüseyin Şahin**
 
 IT Field Technician
 
 20+ Years of IT Infrastructure Experience
+
+Currently studying Cisco CCNA and Enterprise Networking.
